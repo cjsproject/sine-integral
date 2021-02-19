@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Fraction carries out all the fraction operations including addition, subtraction, multiplication, division, reciprocation"
+name = "fraction"
+optional = false
+python-versions = "*"
+version = "1.4.1"
+
+[metadata]
+content-hash = "55bc999cb992d773286c52c836d72e81529df412407479e240ee872e19ad6829"
+python-versions = "^3.8"
+
+[metadata.files]
+fraction = [
+    {file = "Fraction-1.4.1-py3-none-any.whl", hash = "sha256:4eec72c0dd0a19a864633b751bfeed86d46ec49fbcfce8e92d287c2d4b472079"},
+    {file = "Fraction-1.4.1.tar.gz", hash = "sha256:140ae9b131e7516e873e6daccd3c9e90a223c14e42b59fdca906e3272b0f1916"},
+]
